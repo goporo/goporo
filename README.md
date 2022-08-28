@@ -1,6 +1,7 @@
 <h1><strong>Hi there, I'm GOPORO</strong> 👋</a></h1>
-- 👀 I’m interested in web developer
-- 🌱 I’m currently learning js
+👀 I’m interested in web developer
+
+🌱 I’m currently learning js
 
 ### **My knowledges 📖**
 
