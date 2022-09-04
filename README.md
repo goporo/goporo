@@ -1,5 +1,5 @@
 <h1><strong>Hi there, I'm GOPORO</strong> 👋</a></h1>
-👀 I’m interested in web developer
+👀 I’m interested in web developer(front-end)
 
 🌱 I’m currently learning JS, React
 
