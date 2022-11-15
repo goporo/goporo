@@ -1,11 +1,8 @@
 <h1><strong>Hi there, I'm GOPORO</strong> 👋</a></h1>
-👀 I’m interested in web developer
-
-🌱 I’m currently learning JS, React
-
-🌱 You can play my Unity game here: https://simmer.io/@goporolo/planetgo
-
-🌱 My portfolio: https://lofi-chill-web594.netlify.app/
+👀 I’m interested in web developer</br>
+🌱 I’m currently learning JS, React</br>
+🌱 You can play my Unity game here: https://simmer.io/@goporolo/planetgo</br>
+🌱 My portfolio: https://lofi-chill-web594.netlify.app/</br>
 
 ### **My knowledges 📖**
 
