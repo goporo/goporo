@@ -2,7 +2,8 @@
 👀 I’m interested in web developer
 
 🌱 I’m currently learning JS, React
- 
+🌱 You can play my Unity game here: https://simmer.io/@goporolo/planetgo
+🌱 My portfolio: https://lofi-chill-web594.netlify.app/
 
 ### **My knowledges 📖**
 
