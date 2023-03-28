@@ -4,7 +4,7 @@
 🎮 You can play my Unity game here: https://simmer.io/@goporolo/planetgo</br>
 🚀🚀🚀
 
-### **My knowledges 📖**
+### **My knowledge 📖**
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
