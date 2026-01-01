@@ -26,6 +26,5 @@
 <!-- ![Socket.IO](https://img.shields.io/badge/Socket.IO-black.svg?style=flat-square&logo=socket.io&logoColor=white) -->
 <!-- ![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) -->
 
-### **Some of my Github Stats 🎓**
 
 
