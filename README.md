@@ -28,9 +28,4 @@
 
 ### **Some of my Github Stats 🎓**
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=goporo&show_icons=true&theme=react&icon_color=ffb300" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goporo&layout=compact&theme=react&langs_count=6&" height="165">
-</p>
-
 
